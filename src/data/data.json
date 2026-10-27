@@ -1,0 +1,167 @@
+[
+	{
+		"id": "550e8400-e29b-41d4-a716-446655440001",
+		"name": "Alice Johnson",
+		"email": "alice.j@example.com",
+		"company": "TechCorp",
+		"role": "Lead",
+		"owner": "Sarah Jenkins",
+		"labels": "VIP, Enterprise",
+		"stage": "Active",
+		"notes": "Key decision maker for the upcoming migration project."
+	},
+	{
+		"id": "550e8400-e29b-41d4-a716-446655440002",
+		"name": "Bob Smith",
+		"email": "bob.smith@example.com",
+		"company": "InnoSoft",
+		"role": "Prospect",
+		"owner": "David Miller",
+		"labels": "SMB, Trial",
+		"stage": "Onboarding",
+		"notes": "Requested a demo for the analytics dashboard."
+	},
+	{
+		"id": "550e8400-e29b-41d4-a716-446655440003",
+		"name": "Catherine Zeta",
+		"email": "c.zeta@example.com",
+		"company": "Global Logistics",
+		"role": "Qualified",
+		"owner": "Sarah Jenkins",
+		"labels": "Enterprise",
+		"stage": "Negotiation",
+		"notes": "Discussing annual contract renewal terms."
+	},
+	{
+		"id": "550e8400-e29b-41d4-a716-446655440004",
+		"name": "Daniel Craig",
+		"email": "daniel@mi6-tech.co.uk",
+		"company": "MI6 Sec",
+		"role": "Customer",
+		"owner": "Alex Rivera",
+		"labels": "Security, Partner",
+		"stage": "Active",
+		"notes": "Strict security requirements needed for API integration."
+	},
+	{
+		"id": "550e8400-e29b-41d4-a716-446655440005",
+		"name": "Elena Rostova",
+		"email": "elena.r@example.com",
+		"company": "Vostok Ltd",
+		"role": "Lead",
+		"owner": "David Miller",
+		"labels": "SMB",
+		"stage": "Trail",
+		"notes": "Met at the regional tech conference."
+	},
+	{
+		"id": "550e8400-e29b-41d4-a716-446655440006",
+		"name": "Frank Castle",
+		"email": "frank@punish-it.com",
+		"company": "Punish Solutions",
+		"role": "Customer",
+		"owner": "Alex Rivera",
+		"labels": "High Risk",
+		"stage": "Trial",
+		"notes": "Cancelled subscription due to pricing issues."
+	},
+	{
+		"id": "550e8400-e29b-41d4-a716-446655440007",
+		"name": "Grace Hopper",
+		"email": "grace@navy-comp.mil",
+		"company": "Legacy Systems",
+		"role": "Prospect",
+		"owner": "Sarah Jenkins",
+		"labels": "Government, VIP",
+		"stage": "Active",
+		"notes": "Pioneer user, very helpful feedback provider."
+	},
+	{
+		"id": "550e8400-e29b-41d4-a716-446655440008",
+		"name": "Harrison Ford",
+		"email": "harrison@solo-freight.com",
+		"company": "Corellian Freighters",
+		"role": "Qualified",
+		"owner": "David Miller",
+		"labels": "SMB",
+		"stage": "Onboarding",
+		"notes": "Having trouble setting up single sign-on (SSO)."
+	},
+	{
+		"id": "550e8400-e29b-41d4-a716-446655440009",
+		"name": "Iris West",
+		"email": "iris@central-city-news.net",
+		"company": "CC News",
+		"role": "Customer",
+		"owner": "Alex Rivera",
+		"labels": "Media",
+		"stage": "Prospect",
+		"notes": "Interested in our press release distribution tools."
+	},
+	{
+		"id": "550e8400-e29b-41d4-a716-446655440010",
+		"name": "Jack Ryan",
+		"email": "jryan@cia.gov",
+		"company": "Federal Agency",
+		"role": "Lead",
+		"owner": "Sarah Jenkins",
+		"labels": "Government, Enterprise",
+		"stage": "Active",
+		"notes": "Completed compliance review successfully."
+	},
+	{
+		"id": "550e8400-e29b-41d4-a716-446655440011",
+		"name": "Karen Page",
+		"email": "karen@bulletin.org",
+		"company": "The Bulletin",
+		"role": "Customer",
+		"owner": "David Miller",
+		"labels": "Media, Trial",
+		"stage": "Trial",
+		"notes": "Trial ends next Friday. Send check-in email."
+	},
+	{
+		"id": "550e8400-e29b-41d4-a716-446655440012",
+		"name": "Leo Tolstoy",
+		"email": "leo@war-and-peace.ru",
+		"company": "Publishing House",
+		"role": "Prospect",
+		"owner": "Alex Rivera",
+		"labels": "SMB",
+		"stage": "Trial",
+		"notes": "Requested localization support for Cyrillic scripts."
+	},
+	{
+		"id": "550e8400-e29b-41d4-a716-446655440013",
+		"name": "Mona Lisa",
+		"email": "mona@louvre-digital.fr",
+		"company": "Art Gallery Digital",
+		"role": "Qualified",
+		"owner": "Sarah Jenkins",
+		"labels": "Design, VIP",
+		"stage": "Active",
+		"notes": "Loves the new UI update."
+	},
+	{
+		"id": "550e8400-e29b-41d4-a716-446655440014",
+		"name": "Nathan Drake",
+		"email": "nathan@unexplored.org",
+		"company": "Relic Hunters Inc",
+		"role": "Customer",
+		"owner": "David Miller",
+		"labels": "Startup",
+		"stage": "Onboarding",
+		"notes": "Migrating data from legacy competitor tool."
+	},
+	{
+		"id": "550e8400-e29b-41d4-a716-446655440015",
+		"name": "Olivia Benson",
+		"email": "olivia@svu-tech.org",
+		"company": "Justice Tech",
+		"role": "Lead",
+		"owner": "Alex Rivera",
+		"labels": "Enterprise, Priority",
+		"stage": "Active",
+		"notes": "Requested custom reporting features for Q3."
+	}
+]
